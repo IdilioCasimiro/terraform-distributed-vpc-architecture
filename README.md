@@ -1,2 +1,10 @@
-# terraform-distributed-vpc-architecture
-Use Terraform to deploy 2 VPC across to different regions on AWS with a VPC Peering connection.
+# Project description
+
+This project has the goal of deploying a distribuited Jenkins environment accross two VPC located at 2 different regions.
+
+## Resources to be deployed
+- VPC A
+...
+
+## Code and resource files
+...
